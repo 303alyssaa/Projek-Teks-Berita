@@ -1,0 +1,39 @@
+body{
+    background-color: #BAD6EB;
+    margin: 0;
+    padding: 20px;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    background-color: #FFF9F0;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0,  0, 0.1);
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+.foto{
+    height: 200px; 
+    width: 300px; 
+    border-radius: 15px; 
+    display: block; 
+    margin: auto;
+}
+.kotak{
+    background-color: #FFF9F0;
+    padding:  20px; 
+    border-radius: 15px;  
+    box-shadow: 0 0 10px rgba (0, 0, 0, 0.2); 
+    margin-top: 20px;
+}
+.text{
+    text-align: center;
+}
+
+.text2{
+    text-align: justify;
+}
